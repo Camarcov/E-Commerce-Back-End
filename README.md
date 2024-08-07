@@ -32,8 +32,8 @@ This repository uses [MIT License](https://opensource.org/licenses/MIT) for more
 
 If you'd like to contribute here's a link to the repository and a walkthruough of the endpoints
 
-https://drive.google.com/file/d/1VWKjxgMBKIk3Z0VpHt0l_r6pSETPyRMM/view?usp=sharing
-https://github.com/Camarcov/E-Commerce-Back-End
+* https://drive.google.com/file/d/1VWKjxgMBKIk3Z0VpHt0l_r6pSETPyRMM/view?usp=sharing
+* https://github.com/Camarcov/E-Commerce-Back-End
 
 ## Tests
 Any bugs from any testing you preform please send to the contact info below.
